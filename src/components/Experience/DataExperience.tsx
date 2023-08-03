@@ -75,7 +75,7 @@ const DataExperience: React.FC = () => {
           >
             <img
               src={pattern}
-              alt="pattern vickyadrii"
+              alt="pattern rahmadani"
               className="xl:absolute hidden h-full w-80"
             />
             <motion.div variants={item} className="md:p-10 p-6">

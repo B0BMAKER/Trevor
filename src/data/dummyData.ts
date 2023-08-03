@@ -70,7 +70,7 @@ export const dataLogoSocialMedia: LogoSocialMedia[] = [
   {
     id: 0,
     logo: linkedin,
-    navigate: "https://linkedin.com/in/aris rahmadani",
+    navigate: "https://linkedin.com/in/arisrahmadanii",
   },
   {
     id: 1,
@@ -85,7 +85,7 @@ export const dataLogoSocialMedia: LogoSocialMedia[] = [
   {
     id: 3,
     logo: email,
-    navigate: "mailto:arisrahmadani@gmail.com",
+    navigate: "mailto: arislonti123@gmail.com",
   },
 ];
 
@@ -200,7 +200,7 @@ export const dataExperience: Experience[] = [
     pattern: pattern4,
     name: "Bangkit Academy",
     description: "by Google, GoTo, Traveloka",
-    date: "Feb 2022 - Jul 2022",
+    date: "Feb 2023 - Jul 2023",
     position: "Cloud Computing Learning Path",
     responsibilites: [
       "Build and deploy RESTFul API to our team. Deploy to Cloud Function and can be used or consumed by Mobile Development Path.",

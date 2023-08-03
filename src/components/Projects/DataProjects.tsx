@@ -65,7 +65,7 @@ const DataProjects: React.FC = () => {
           <div className="flex flex-col gap-2.5 items-start">
             <img
               src={logo}
-              alt="logo project vickyadrii"
+              alt="logo project aris"
               className={`object-cover ${
                 id === 0 ? "md:w-48 w-28" : "md:w-24 w-2/12"
               }`}
